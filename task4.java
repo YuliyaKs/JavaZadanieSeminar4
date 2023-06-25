@@ -68,6 +68,7 @@ public class task4 {
         }
         else{
             System.out.println("Вы отказались от сортировки");
+            return;
         } 
         reader.close();
 
